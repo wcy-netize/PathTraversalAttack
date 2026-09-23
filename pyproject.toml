@@ -1,0 +1,7 @@
+[project]
+name = "security-test"
+version = "0.1.0"
+description = "Vulnerability testing repository"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
